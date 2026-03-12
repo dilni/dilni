@@ -37,12 +37,12 @@
 <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>
 
-<a href="https://github.com/dilni">
-<img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
-
 <a href="https://www.hackerrank.com/d.rohansiwijesinghe">
 <img width="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+</a>
+
+<a href="https://github.com/dilni">
+<img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
 <a href="https://kaggle.com/dilniwijesinghe">
