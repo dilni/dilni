@@ -116,7 +116,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dilni/dilni/output/github-contribution-grid-snake.svg" width="200"/>
+  <img src="https://raw.githubusercontent.com/dilni/dilni/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
