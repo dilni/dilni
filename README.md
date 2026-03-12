@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3h3N3ZxYzhnczZ3cmdjbjFpd2Y4cHQweDN0Z3U2cnNlb3FnZXo0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3h3N3ZxYzhnczZ3cmdjbjFpd2Y4cHQweDN0Z3U2cnNlb3FnZXo0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif" width="160"/>
 </p>
 
 <p>
@@ -8,11 +8,6 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilni&label=Profile%20views&color=0e75b6&style=flat" alt="dilni" /> </p>
-
-<br>
-<p>
-- 🔭 I’m currently working on **HarveXtro**
-</p>
 
 <br>
 
@@ -113,7 +108,8 @@
 </p>
 
 <br>
-<br>
+
+---
 
 <div align="center">
     <picture align="center">
@@ -122,6 +118,9 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
+<br>
+
+---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
