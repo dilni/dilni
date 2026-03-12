@@ -115,9 +115,13 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github.com/dilni/dilni/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</p>
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
